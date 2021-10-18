@@ -1,0 +1,5 @@
+C:\Users\Garðar Ingi\Desktop\cactus\logging_service\Receive\obj\Debug\net5.0\Receive.csproj.AssemblyReference.cache
+C:\Users\Garðar Ingi\Desktop\cactus\logging_service\Receive\obj\Debug\net5.0\Receive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Garðar Ingi\Desktop\cactus\logging_service\Receive\obj\Debug\net5.0\Receive.AssemblyInfoInputs.cache
+C:\Users\Garðar Ingi\Desktop\cactus\logging_service\Receive\obj\Debug\net5.0\Receive.AssemblyInfo.cs
+C:\Users\Garðar Ingi\Desktop\cactus\logging_service\Receive\obj\Debug\net5.0\Receive.csproj.CoreCompileInputs.cache

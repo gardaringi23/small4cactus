@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "piK0mxbNfVKppP1tNTgs/ynWMeFSjcx2jdG84WA2ycA2Oc/uyLJH2gHoFJWDczv+JQBjIGa8HSoo5aRbwx5IMg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Garðar Ingi\\Desktop\\cactus\\logging_service\\Send\\Send.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Garðar Ingi\\.nuget\\packages\\rabbitmq.client\\6.2.2\\rabbitmq.client.6.2.2.nupkg.sha512",
+    "C:\\Users\\Garðar Ingi\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Garðar Ingi\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
